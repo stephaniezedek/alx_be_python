@@ -6,7 +6,7 @@ Sum = number1 + number2
 Product = number1*number2
 print ("Difference of number1 and number2 is", Difference)
 print ("Sum of number1 and number2 is", Sum)
-print ("Product of number1 and number2 is", Product)
+print ("Multiplication of number1 and number2 is", Product)
 python3 basic_operations.py
 Addition of 10 and 5 is 15
 Subtraction of 10 and 5 is 5
