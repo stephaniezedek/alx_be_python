@@ -1,12 +1,12 @@
 number1 = 10 
 number2 = 5
-difference = number1 - number2
-sum_result = number1 + number2
-product = number1 * number2
+number1 - number2
+number1 + number2
+number1 * number2
 
-print("Addition of", number1, "and", number2, "is", sum_result)
-print("Subtraction of", number1, "and", number2, "is", difference)
-print("Multiplication of", number1, "and", number2, "is", product)
+print("Addition of", number1, "and", number2, "is",number1 + number2)
+print("Subtraction of", number1, "and", number2, "is", number1 - number2)
+print("Multiplication of", number1, "and", number2, "is", number1 * number2)
 
 python3 basic_operations.py
 
